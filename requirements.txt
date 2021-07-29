@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+plotly
+plotly-geo
+PyQt5
+PyQt5-Qt5
+PyQt5-sip
+requests
+scipy
